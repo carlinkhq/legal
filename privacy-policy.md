@@ -1,0 +1,317 @@
+# CarLink Privacy Policy
+
+**Effective Date:** May 8, 2026
+**Last Updated:** May 8, 2026
+
+---
+
+## 1. Who We Are
+
+This Privacy Policy explains how **CarLink HQ LLC** ("CarLink HQ,"
+"we," "us," or "our") collects, uses, shares, and protects information
+when you use the CarLink mobile application, website, and related
+services (collectively, the "Service").
+
+By using the Service, you agree to the collection and use of information
+described here. If you do not agree, please do not use the Service.
+
+---
+
+## 2. Information We Collect
+
+### 2.1 Information you provide
+
+  - **Account information.** Email address, display name, username,
+    password (stored as a salted hash), profile photo, banner photo,
+    bio, website URL, pronouns (optional).
+  - **Garage and content.** Vehicle make, model, year, photos, build
+    notes, modifications, performance specs, ownership history,
+    achievements you choose to surface on your profile.
+  - **Posts, comments, and messages.** Photos, captions, comments,
+    direct messages, group-chat messages, story uploads (which expire
+    24 hours after posting), and any other content you post.
+  - **Show and event metadata.** Show names, dates, locations, ticket
+    information, attendee lists, organizer requests, and event RSVPs.
+  - **Privacy settings.** Whether your account is private, your
+    Garage Visibility, who can DM you, who can tag or @mention you,
+    your blocked-users list, your muted-conversations list.
+  - **Verification information.** If you apply for verified status, we
+    may request a government-issued ID, business documentation, or
+    other proof of identity. We use that information solely to verify
+    your identity and delete it after the review is complete.
+
+### 2.2 Information collected automatically
+
+  - **Device information.** Device model, operating-system version, app
+    version, language, timezone, mobile carrier, screen size, and
+    crash logs.
+  - **Usage information.** Pages and screens you view, features you
+    use, time spent in the app, taps on posts and stories, search
+    queries.
+  - **Approximate location.** With your permission, we use device
+    location to show shows and groups near you, surface "Local"
+    discovery results, and (if you check in to a show) record your
+    attendance. You can revoke location permission in iOS / Android
+    Settings at any time.
+  - **Stored network identifiers.** IP address, push-notification token,
+    and a randomized device identifier used for fraud prevention and
+    abuse detection.
+
+### 2.3 Information from third parties
+
+  - **Sign-in providers.** If you sign in with Apple, Google, or
+    another OAuth provider, we receive the basic profile fields the
+    provider supplies (typically a stable user ID, email, and
+    display name).
+  - **Mapping providers.** Map tiles and geocoding are provided by
+    third parties; their data handling is governed by their own
+    privacy policies.
+
+We do not collect sensitive personal information (race, religion,
+biometrics, precise medical data, etc.) and we do not knowingly
+collect information from children under 13.
+
+---
+
+## 3. How We Use Information
+
+We use the information we collect to:
+
+  - **Operate the Service.** Authenticate accounts, deliver posts,
+    show stories, route messages, render maps, send push
+    notifications, and generally run the app you signed up for.
+  - **Personalize.** Surface posts, shows, builders, hashtags, and
+    groups likely to interest you. Surface People You Might Like,
+    Now Happening, and Discover content.
+  - **Communicate.** Send transactional emails (password resets,
+    receipts), in-app announcements, and (with your consent)
+    occasional product updates.
+  - **Keep the community safe.** Detect and respond to spam,
+    impersonation, harassment, intellectual-property infringement,
+    and other abuse. Enforce our [Community Guidelines](./community-guidelines.md).
+  - **Improve the Service.** Diagnose crashes, measure performance,
+    test new features, and analyze aggregate usage trends.
+  - **Comply with the law.** Respond to lawful requests from courts,
+    regulators, and law enforcement.
+
+We do **not** sell your personal information. We do not run third-party
+ad networks inside the app and we do not share your contact information
+or content with advertisers for cross-context behavioral advertising.
+
+---
+
+## 4. How We Share Information
+
+We share information only as described below.
+
+  - **With other users.** Anything you post publicly — your profile,
+    posts, photos, garage cars (if Garage Visibility is set to
+    Public), comments — is visible to other users by default. If your
+    account is **private**, only approved followers can see your
+    posts, garage, and full followers list.
+  - **With organizers and groups.** If you RSVP to a show, the
+    organizer can see that you've RSVPd. If you join a group, group
+    admins can see your membership and any messages you post in the
+    group.
+  - **With service providers.** We use trusted third-party providers
+    to run the infrastructure behind CarLink — including database
+    hosting (Supabase), object storage, push notifications, email
+    delivery, crash reporting, and analytics. They are contractually
+    bound to use the data only to provide their services to us.
+  - **For legal reasons.** If we receive a valid subpoena, court
+    order, search warrant, or other lawful request, we may disclose
+    information to comply. We may also disclose information if we
+    believe in good faith that doing so is necessary to prevent
+    fraud, abuse, imminent harm, or to enforce our Terms of Service.
+  - **Business transfers.** If CarLink HQ is acquired or merges with
+    another entity, your information may be transferred as part of
+    that transaction. We will notify you in advance of any change of
+    ownership and let you delete your account before the transfer
+    completes if you choose.
+
+---
+
+## 5. Your Choices
+
+  - **Update your profile.** Edit your display name, username, bio,
+    pronouns, photos, and links anytime from Settings → Edit Profile.
+  - **Privacy controls.** Toggle a Private Account, scope Garage
+    Visibility, restrict who can DM or tag you, mute or block
+    individual users, and turn off Activity Status, Read Receipts,
+    or Story Replies.
+  - **Push notifications.** Manage notification categories from
+    Settings → Notifications, or turn them off entirely in iOS /
+    Android system settings.
+  - **Location.** Revoke location permission in your device settings.
+    Location-aware features (Local feed, Now Happening, distance to
+    shows) will be unavailable but the rest of the app works.
+  - **Account deletion.** Delete your account from Settings →
+    Privacy & Safety → Delete Account. We will remove your profile,
+    posts, garage, stories, and messages from public view within 30
+    days. Some content may persist in encrypted backups for up to 90
+    days for security and legal-compliance reasons.
+
+---
+
+## 6. Your Rights
+
+Depending on where you live, you may have the right to:
+
+  - **Access** the personal information we hold about you.
+  - **Correct** inaccurate or incomplete information.
+  - **Delete** your information (subject to legal retention
+    requirements).
+  - **Restrict or object** to certain processing.
+  - **Port** your information to another service in a structured,
+    machine-readable format.
+  - **Opt out** of "sales" or "sharing" of personal information for
+    cross-context behavioral advertising. As of the effective date,
+    CarLink HQ does **not** sell or share personal information for
+    that purpose.
+  - **Withdraw consent** for processing that requires consent, at
+    any time, without affecting the lawfulness of processing carried
+    out before withdrawal.
+  - **Lodge a complaint** with your local data-protection authority.
+
+To exercise any of these rights, contact us at
+**privacy@carlinkhq.com** and include enough detail for us to verify
+your identity. We will respond within the statutory timeframe in your
+jurisdiction (e.g., 45 days under California's CCPA/CPRA, 30 days under
+the EU's GDPR).
+
+We do not discriminate against users who exercise their privacy
+rights.
+
+---
+
+## 7. International Transfers
+
+CarLink HQ is based in the **United States**. If you access the Service
+from outside the United States, your information will be transferred to
+and processed in the United States, where data-protection laws may
+differ from those in your country. By using the Service you consent to
+this transfer. Where required by law (for example, transfers from the
+EU/EEA, UK, or Switzerland), we use appropriate safeguards such as the
+European Commission's Standard Contractual Clauses.
+
+---
+
+## 8. Data Retention
+
+We keep your information for as long as your account is active and as
+long as needed to provide the Service. After you delete your account,
+we remove your content from public view within 30 days and from our
+production systems within a further 60 days, except where retention is
+required by law or where retention is necessary for fraud prevention,
+abuse review, security audits, or to enforce our Terms.
+
+Stories expire **24 hours** after posting and are removed from the
+public rail. The underlying row may be retained for a short additional
+period for the author's view-count analytics and is then deleted.
+
+Direct-message content is retained until the participants delete it or
+delete their accounts.
+
+---
+
+## 9. Security
+
+We protect your information with industry-standard administrative,
+technical, and physical safeguards: TLS in transit, encryption at rest
+where supported, hashed passwords, scoped database row-level security,
+periodic access reviews, and audit logging. No system is perfectly
+secure, and we cannot guarantee absolute security. If we ever learn of
+a security incident affecting your information, we will notify you
+without undue delay as required by law.
+
+---
+
+## 10. Children's Privacy
+
+CarLink is not intended for children under 13. We do not knowingly
+collect personal information from anyone under 13. If we learn we have
+collected information from a child under 13, we will delete it
+promptly. Parents or guardians who believe their child has provided us
+with personal information may contact us at **privacy@carlinkhq.com**.
+
+---
+
+## 11. California Residents — Additional Disclosures
+
+If you are a California resident, the California Consumer Privacy Act
+of 2018 (as amended by the CPRA) provides specific rights regarding
+your personal information.
+
+**Categories of personal information collected.** Identifiers (name,
+email, IP), commercial information (account activity), internet
+activity (logs, device info), geolocation (approximate), inferences
+(content interests).
+
+**Sources.** You, your device, third-party sign-in providers.
+
+**Purposes.** As described in Sections 3 and 4 above.
+
+**Sharing for cross-context behavioral advertising.** None.
+
+**Sale of personal information.** None.
+
+**Sensitive personal information.** We do not collect or process
+sensitive personal information for the purpose of inferring
+characteristics about you.
+
+You can submit a request to know, delete, correct, or port at
+**privacy@carlinkhq.com**. You may designate an authorized agent to
+make a request on your behalf, in which case we will require
+verification of the agent's authority.
+
+---
+
+## 12. EU/EEA, UK, and Swiss Residents
+
+If you are in the EU/EEA, UK, or Switzerland, the General Data
+Protection Regulation (GDPR), UK GDPR, or Swiss Federal Act on Data
+Protection applies.
+
+**Legal bases.** We process your personal information under one or
+more of: (a) **performance of a contract** (operating the account you
+signed up for); (b) **legitimate interests** (operating the Service
+securely, preventing abuse, improving the product); (c) **consent**
+(for optional features like push notifications and location); and
+(d) **legal obligation** (responding to lawful requests).
+
+**Controller.** CarLink HQ LLC is the controller of your personal
+information. You can reach our privacy team at
+**privacy@carlinkhq.com**.
+
+**Right to lodge a complaint.** You have the right to complain to
+your supervisory authority (e.g., the ICO in the UK, or your national
+DPA in the EU).
+
+---
+
+## 13. Changes to This Policy
+
+We may update this Privacy Policy from time to time. If we make a
+material change, we will notify you by email or through the Service at
+least **30 days** before the change takes effect. Your continued use
+of the Service after the effective date of the change constitutes
+acceptance of the updated policy. The current version is always
+available at [legal/privacy-policy.md](./privacy-policy.md) and inside
+the app under Settings → Legal.
+
+---
+
+## 14. Contact
+
+CarLink HQ LLC
+San Francisco, California, USA
+**Privacy:** privacy@carlinkhq.com
+**Legal:** legal@carlinkhq.com
+**Support:** support@carlinkhq.com
+
+---
+
+*This Privacy Policy is a working draft. Before publishing the
+production version, have it reviewed by a licensed privacy attorney in
+your jurisdiction. CarLink HQ is solely responsible for the accuracy
+of the final published version.*
