@@ -1,11 +1,11 @@
 # CarLink Community Guidelines
 
-**Effective Date:** May 8, 2026
-**Last Updated:** May 8, 2026
+**Effective Date:** May 20, 2026
+**Last Updated:** May 20, 2026
 
 CarLink is operated by **CarLink HQ LLC**. These Community Guidelines are
-incorporated by reference into our [Terms of Service](./terms-of-service.md)
-and [Privacy Policy](./privacy-policy.md). When we say "we" or "our," we
+incorporated by reference into our [Terms of Service](./terms_of_service.md)
+and [Privacy Policy](./privacy_policy.md). When we say "we" or "our," we
 mean CarLink HQ LLC.
 
 ---
@@ -14,7 +14,7 @@ mean CarLink HQ LLC.
 
 CarLink is a community built by and for car enthusiasts. Whether you're here to share your build, find the next show, connect with a local club, or run events as an organizer, we want CarLink to feel like pulling into the best meet you've ever been to — welcoming, respectful, and proud of the craft.
 
-These Community Guidelines exist to keep it that way. They apply to everyone who uses CarLink and to everything you post, photograph, send, or list: posts, comments, photos, direct messages, group chats, event listings, marketplace items, and profiles.
+These Community Guidelines exist to keep it that way. They apply to everyone who uses CarLink and to everything you post, photograph, send, or list: posts, comments, photos, direct messages, group chats, event listings, and profiles.
 
 By using CarLink, you agree to follow these guidelines. If you see something that breaks them, report it from within the app. Our team reviews every report.
 
@@ -111,8 +111,7 @@ CarLink works because posts reflect what people actually think, buy, and build.
 
 - Repetitive posts, comments, or direct messages advertising the same product, service, or link
 - Engagement manipulation: fake likes, bought followers, vote brigading, or coordinated RSVP manipulation
-- Phishing attempts, fraudulent giveaways, counterfeit parts, or deceptive listings
-- Off-platform payment schemes designed to evade marketplace safeguards
+- Phishing attempts, fraudulent giveaways, counterfeit parts, or deceptive offers
 - Pyramid schemes, MLM recruitment, or crypto/NFT promotion disguised as car content
 
 If you run a shop, brand, or media account, you're welcome here — participate honestly, disclose sponsored posts clearly, and add value to the community.
@@ -123,9 +122,9 @@ If you run a shop, brand, or media account, you're welcome here — participate 
 
 Listing an event on CarLink is a promise to the community. Treat it that way.
 
-- Event details must be accurate: date, time, location, cost, rain policy.
+- Event details must be accurate: date, time, location, admission cost (if any), rain policy.
 - Don't list the same event multiple times to inflate visibility.
-- Don't list ticketed events as "free" to game reach.
+- Don't misrepresent paid admission as "free" to game reach. CarLink does not process ticketing — any admission charges happen off-platform between you and your attendees.
 - If you cancel or reschedule, update the listing and notify RSVPs.
 - Don't run events that require trespassing, violate local law, or put attendees at unreasonable risk.
 - Treat photographers, vendors, sponsors, and attendees professionally. Paid roles should be paid.
@@ -134,20 +133,7 @@ Repeated no-shows, misleading listings, or harassment of attendees can cost you 
 
 ---
 
-## 9. Marketplace and Parts Listings
-
-When buying, selling, or trading on CarLink:
-
-- List accurately. Photos should show the actual item. Describe condition, location, and price honestly.
-- Don't list stolen, counterfeit, or illegal parts.
-- Complete transactions respectfully and on time.
-- Use payment methods you trust. CarLink is not an escrow service — exercise judgment.
-
-Scams are grounds for permanent removal.
-
----
-
-## 10. Protecting Minors
+## 9. Protecting Minors
 
 Users must be at least 13 years old. Users under 18 are subject to additional protections.
 
@@ -159,7 +145,7 @@ Violations of this section result in permanent removal and, where required by la
 
 ---
 
-## 11. Messaging
+## 10. Messaging
 
 Direct messages and group chats are private between participants, but the rules still apply.
 
@@ -171,7 +157,7 @@ You can mute, block, report, and leave conversations at any time from the messag
 
 ---
 
-## 12. Reporting and Enforcement
+## 11. Reporting and Enforcement
 
 If you see content or behavior that violates these guidelines, report it from the post, profile, message, or event.
 
@@ -179,7 +165,7 @@ Every report is reviewed by our moderation team. When content or an account is f
 
 - Remove the content
 - Issue a warning
-- Temporarily restrict account features (posting, messaging, organizer privileges, marketplace access)
+- Temporarily restrict account features (posting, messaging, organizer privileges)
 - Suspend the account for a defined period
 - Permanently remove the account
 - Refer the matter to law enforcement where appropriate
@@ -188,7 +174,7 @@ We aim to be proportional. Minor, first-time issues are usually handled with a w
 
 ---
 
-## 13. Appeals
+## 12. Appeals
 
 If you believe an enforcement decision was made in error, you can appeal from within the app or by emailing **support@carlinkhq.com**. Please include your account handle, the specific content or decision you're appealing, and why you believe the decision should be reversed.
 
@@ -196,13 +182,13 @@ Appeals are reviewed by a human in the order they are received. Filing an appeal
 
 ---
 
-## 14. Changes to These Guidelines
+## 13. Changes to These Guidelines
 
 Car culture evolves. So does the app, and so will these guidelines. When we make material changes, we will update the "Last Updated" date above and notify active users in the app. Continued use of CarLink after an update constitutes acceptance of the revised guidelines.
 
 ---
 
-## 15. Contact Us
+## 14. Contact Us
 
 **Email:** support@carlinkhq.com
 **In app:** Settings → Support → Report a Problem
@@ -212,4 +198,4 @@ Thanks for helping build this place.
 Drive well. Treat each other right. Post the good ones.
 
 — The CarLink Team
-*CarLink HQ LLC · San Francisco, California · support@carlinkhq.com*
+*CarLink HQ LLC · Woodstock, Georgia · support@carlinkhq.com*

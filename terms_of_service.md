@@ -1,7 +1,7 @@
 # CarLink Terms of Service
 
-**Effective Date:** May 8, 2026
-**Last Updated:** May 8, 2026
+**Effective Date:** June 17, 2026
+**Last Updated:** June 17, 2026
 
 ---
 
@@ -13,8 +13,8 @@ the CarLink mobile application, website, and any related services
 (collectively, the "Service").
 
 By creating an account or using the Service, you agree to these Terms and
-to our [Privacy Policy](./privacy-policy.md) and
-[Community Guidelines](./community-guidelines.md). If you do not agree,
+to our [Privacy Policy](./privacy_policy.md) and
+[Community Guidelines](./community_guidelines.md). If you do not agree,
 do not use the Service.
 
 ---
@@ -25,6 +25,12 @@ You must be at least **13 years old** to create a CarLink account. If you
 are under 18 (or the age of majority in your jurisdiction), you represent
 that a parent or legal guardian has reviewed these Terms and agrees to
 them on your behalf.
+
+At signup, you are required to provide your date of birth so we can
+verify you meet this minimum age. CarLink enforces this requirement
+in the app and on our servers; accounts that misrepresent age may be
+suspended or terminated. See our Privacy Policy for how we store and
+protect that information.
 
 You must provide accurate registration information and keep it current.
 You are responsible for maintaining the confidentiality of your account
@@ -102,11 +108,13 @@ You agree not to:
 ## 6. Shows and Events
 
 CarLink lets users create and manage car-show listings, including
-public, private (invite-only), and ticketed events. If you are an event
-organizer:
+public events and private (invite-only) events. **CarLink HQ does not
+process ticket sales, admissions, payments, or refunds.** If an event
+charges admission, all transactions happen off-platform between the
+organizer and the attendees. If you are an event organizer:
 
   - You are solely responsible for the accuracy of the information you
-    publish (date, time, location, ticket terms, refund policies, age
+    publish (date, time, location, admission terms if any, age
     restrictions, attendance caps, parking, etc.).
   - You are solely responsible for compliance with applicable laws,
     including event permits, insurance, alcohol licensing, vehicle and
@@ -114,8 +122,8 @@ organizer:
   - You are solely responsible for any contracts you form with
     attendees, sponsors, vendors, venues, and third parties.
   - CarLink HQ is **not** a party to any agreement between organizers
-    and attendees and does not act as an agent, broker, or
-    representative of any organizer.
+    and attendees and does not act as an agent, broker, payment
+    processor, or representative of any organizer.
 
 If you attend an event, you understand that CarLink HQ is not the
 organizer, host, or insurer, and you assume the inherent risks of
@@ -179,7 +187,7 @@ prior written consent.
 
 CarLink HQ respects intellectual-property rights. If you believe content
 on the Service infringes your copyright, send a notice to
-**dmca@carlinkhq.com** with:
+**support@carlinkhq.com** with:
 
   - A description of the copyrighted work you claim has been infringed.
   - The exact URL or location within the Service of the allegedly
@@ -266,20 +274,20 @@ these Terms; or (d) your violation of any law or third-party right.
 
 ## 16. Dispute Resolution and Governing Law
 
-These Terms are governed by the laws of the **State of California**,
+These Terms are governed by the laws of the **State of Georgia**,
 without regard to its conflict-of-laws principles. The federal and state
-courts located in San Francisco County, California will have exclusive
+courts located in Cherokee County, Georgia will have exclusive
 jurisdiction over any dispute that is not subject to arbitration.
 
 **Informal resolution.** Before filing any claim, you agree to contact
-us at **legal@carlinkhq.com** and to attempt in good faith to resolve
+us at **support@carlinkhq.com** and to attempt in good faith to resolve
 the dispute informally for at least 30 days.
 
 **Binding arbitration.** Except for claims for injunctive relief and
 small-claims-court claims, any dispute arising out of or relating to
 these Terms or the Service will be resolved by binding individual
 arbitration administered by JAMS in accordance with its Streamlined
-Arbitration Rules, in San Francisco, California. **You and CarLink HQ
+Arbitration Rules, in Atlanta, Georgia. **You and CarLink HQ
 each waive the right to a trial by jury and the right to participate in
 a class action.**
 
@@ -292,7 +300,7 @@ change, we will notify you by email or through the Service at least
 **30 days** before the change takes effect. Your continued use of the
 Service after the effective date of the change constitutes acceptance
 of the updated Terms. The current version is always available at
-[legal/terms-of-service.md](./terms-of-service.md) and inside the app
+[legal/terms_of_service.md](./terms_of_service.md) and inside the app
 under Settings → Legal.
 
 ---
@@ -300,15 +308,9 @@ under Settings → Legal.
 ## 18. Contact
 
 CarLink HQ LLC
-San Francisco, California, USA
+Woodstock, Georgia, USA
 **General:** support@carlinkhq.com
-**Legal:** legal@carlinkhq.com
-**Copyright / DMCA:** dmca@carlinkhq.com
-**Privacy:** privacy@carlinkhq.com
+**Legal:** support@carlinkhq.com
+**Copyright / DMCA:** support@carlinkhq.com
+**Privacy:** support@carlinkhq.com
 
----
-
-*These Terms are a working draft. Before publishing the production
-version, have them reviewed by a licensed attorney in your jurisdiction.
-CarLink HQ is solely responsible for the accuracy of the final
-published version.*

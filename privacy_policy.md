@@ -1,7 +1,7 @@
 # CarLink Privacy Policy
 
-**Effective Date:** May 8, 2026
-**Last Updated:** May 8, 2026
+**Effective Date:** June 17, 2026
+**Last Updated:** June 17, 2026
 
 ---
 
@@ -23,7 +23,13 @@ described here. If you do not agree, please do not use the Service.
 
   - **Account information.** Email address, display name, username,
     password (stored as a salted hash), profile photo, banner photo,
-    bio, website URL, pronouns (optional).
+    bio, website URL, pronouns (optional), date of birth.
+  - **Date of birth.** Collected at signup to verify you meet our
+    minimum age requirement of 13 (see Section 10 — Children's
+    Privacy). Date of birth is stored on your account row, is never
+    shown to other users, is not used for targeted advertising, and
+    is treated as sensitive personal information under the
+    safeguards described in Section 7 (Security).
   - **Garage and content.** Vehicle make, model, year, photos, build
     notes, modifications, performance specs, ownership history,
     achievements you choose to surface on your profile.
@@ -66,6 +72,10 @@ described here. If you do not agree, please do not use the Service.
   - **Mapping providers.** Map tiles and geocoding are provided by
     third parties; their data handling is governed by their own
     privacy policies.
+  - **Advertising partners (website).** When you visit
+    **carlinkhq.com**, our advertising partner Google may collect
+    information automatically through cookies and similar
+    technologies. See Section 4.5 for details.
 
 We do not collect sensitive personal information (race, religion,
 biometrics, precise medical data, etc.) and we do not knowingly
@@ -88,15 +98,18 @@ We use the information we collect to:
     occasional product updates.
   - **Keep the community safe.** Detect and respond to spam,
     impersonation, harassment, intellectual-property infringement,
-    and other abuse. Enforce our [Community Guidelines](./community-guidelines.md).
+    and other abuse. Enforce our [Community Guidelines](./community_guidelines.md).
   - **Improve the Service.** Diagnose crashes, measure performance,
     test new features, and analyze aggregate usage trends.
   - **Comply with the law.** Respond to lawful requests from courts,
     regulators, and law enforcement.
 
-We do **not** sell your personal information. We do not run third-party
-ad networks inside the app and we do not share your contact information
-or content with advertisers for cross-context behavioral advertising.
+We do **not** sell your personal information. Our **website at
+carlinkhq.com** uses **Google AdSense** to display advertisements on
+public pages; see Section 4.5 below for the details on what
+information Google receives and how to opt out. We do not share your
+contact information, posts, garage content, or direct messages with
+any advertiser.
 
 ---
 
@@ -129,6 +142,49 @@ We share information only as described below.
     ownership and let you delete your account before the transfer
     completes if you choose.
 
+### 4.5 Advertising on the website
+
+Our **website at carlinkhq.com** uses **Google AdSense** to display
+advertisements on public pages.
+
+**What Google receives.** When you load a public web page that
+contains an AdSense unit, Google may receive:
+
+  - Your IP address and approximate location derived from it
+  - Device characteristics (browser, operating system, screen size)
+  - The page URL you are viewing
+  - Cookies and similar identifiers stored on your browser
+  - Whether you have interacted with previous Google ads
+
+**What Google uses it for.** Google uses this information to
+deliver, measure, and personalize the advertisements you see —
+including across other websites — and for ad fraud prevention.
+Under California law, this constitutes "sharing" of personal
+information for cross-context behavioral advertising.
+
+**Your choices.** You can:
+
+  - Opt out of personalized advertising across Google's network at
+    [https://www.google.com/settings/ads](https://www.google.com/settings/ads).
+    You will still see ads, but they will not be personalized using
+    your Google activity.
+  - Use the **"Do Not Sell or Share My Personal Information"** link
+    in the footer of carlinkhq.com to opt out (California residents).
+  - Configure your browser to block third-party cookies, which
+    materially reduces ad personalization.
+  - Enable **Global Privacy Control (GPC)** in your browser. We
+    treat GPC signals as a valid opt-out request under CCPA.
+
+**What Google does NOT receive from us.** Google AdSense does not
+receive your email address, password, name, profile content,
+garage content, posts, comments, direct messages, or any other
+account-bound personal information. The AdSense integration is
+strictly the standard web-page-level script Google provides; we do
+not pass user identifiers or account data into the ad request.
+
+The full Google AdSense privacy disclosure is available at
+[https://policies.google.com/technologies/ads](https://policies.google.com/technologies/ads).
+
 ---
 
 ## 5. Your Choices
@@ -145,6 +201,10 @@ We share information only as described below.
   - **Location.** Revoke location permission in your device settings.
     Location-aware features (Local feed, Now Happening, distance to
     shows) will be unavailable but the rest of the app works.
+  - **Advertising on the website.** Use the "Do Not Sell or Share My
+    Personal Information" link in the website footer, enable Global
+    Privacy Control in your browser, or use the Google Ads Settings
+    opt-out described in Section 4.5.
   - **Account deletion.** Delete your account from Settings →
     Privacy & Safety → Delete Account. We will remove your profile,
     posts, garage, stories, and messages from public view within 30
@@ -165,16 +225,20 @@ Depending on where you live, you may have the right to:
   - **Port** your information to another service in a structured,
     machine-readable format.
   - **Opt out** of "sales" or "sharing" of personal information for
-    cross-context behavioral advertising. As of the effective date,
-    CarLink HQ does **not** sell or share personal information for
-    that purpose.
+    cross-context behavioral advertising. CarLink HQ **shares**
+    limited browsing information with Google AdSense for advertising
+    on carlinkhq.com (see Section 4.5). You can opt out at any time
+    via the "Do Not Sell or Share My Personal Information" link in
+    the website footer, by enabling Global Privacy Control in your
+    browser, or by emailing support@carlinkhq.com. CarLink HQ does
+    not sell personal information.
   - **Withdraw consent** for processing that requires consent, at
     any time, without affecting the lawfulness of processing carried
     out before withdrawal.
   - **Lodge a complaint** with your local data-protection authority.
 
 To exercise any of these rights, contact us at
-**privacy@carlinkhq.com** and include enough detail for us to verify
+**support@carlinkhq.com** and include enough detail for us to verify
 your identity. We will respond within the statutory timeframe in your
 jurisdiction (e.g., 45 days under California's CCPA/CPRA, 30 days under
 the EU's GDPR).
@@ -229,10 +293,21 @@ without undue delay as required by law.
 ## 10. Children's Privacy
 
 CarLink is not intended for children under 13. We do not knowingly
-collect personal information from anyone under 13. If we learn we have
-collected information from a child under 13, we will delete it
-promptly. Parents or guardians who believe their child has provided us
-with personal information may contact us at **privacy@carlinkhq.com**.
+collect personal information from anyone under 13.
+
+**Age verification.** At signup, we ask you to provide your date of
+birth. If the date you provide implies you are under 13 years old,
+we reject the signup before any account is created and no
+information is stored. This check is enforced both in the iOS app
+and on our database server, so the gate cannot be bypassed by using
+a custom client. Accounts created before this verification was
+introduced are subject to a one-time date-of-birth confirmation the
+next time the account holder opens the app.
+
+If we learn we have collected information from a child under 13,
+we will delete it promptly. Parents or guardians who believe their
+child has provided us with personal information may contact us at
+**support@carlinkhq.com**.
 
 ---
 
@@ -247,11 +322,21 @@ email, IP), commercial information (account activity), internet
 activity (logs, device info), geolocation (approximate), inferences
 (content interests).
 
-**Sources.** You, your device, third-party sign-in providers.
+**Sources.** You, your device, third-party sign-in providers, and
+(on the website only) advertising-cookie identifiers set by Google
+AdSense.
 
 **Purposes.** As described in Sections 3 and 4 above.
 
-**Sharing for cross-context behavioral advertising.** None.
+**Sharing for cross-context behavioral advertising.** We share
+limited identifiers and browsing information (IP address, page
+URLs, browser/device characteristics, AdSense cookie identifiers)
+with Google AdSense for advertising on carlinkhq.com. This is
+"sharing" as defined by the CCPA. **You can opt out at any time**
+via the "Do Not Sell or Share My Personal Information" link in the
+website footer, by enabling Global Privacy Control (GPC) in your
+browser (we honor GPC signals as opt-out requests), or by emailing
+support@carlinkhq.com.
 
 **Sale of personal information.** None.
 
@@ -260,7 +345,7 @@ sensitive personal information for the purpose of inferring
 characteristics about you.
 
 You can submit a request to know, delete, correct, or port at
-**privacy@carlinkhq.com**. You may designate an authorized agent to
+**support@carlinkhq.com**. You may designate an authorized agent to
 make a request on your behalf, in which case we will require
 verification of the agent's authority.
 
@@ -276,12 +361,19 @@ Protection applies.
 more of: (a) **performance of a contract** (operating the account you
 signed up for); (b) **legitimate interests** (operating the Service
 securely, preventing abuse, improving the product); (c) **consent**
-(for optional features like push notifications and location); and
-(d) **legal obligation** (responding to lawful requests).
+(for optional features like push notifications, location, and
+advertising cookies on the website); and (d) **legal obligation**
+(responding to lawful requests).
+
+**Advertising cookies (website).** Advertising cookies on
+carlinkhq.com are placed only after you have given consent via
+the cookie-consent banner shown on first visit. You can withdraw
+consent at any time via the "Cookie settings" link in the website
+footer.
 
 **Controller.** CarLink HQ LLC is the controller of your personal
 information. You can reach our privacy team at
-**privacy@carlinkhq.com**.
+**support@carlinkhq.com**.
 
 **Right to lodge a complaint.** You have the right to complain to
 your supervisory authority (e.g., the ICO in the UK, or your national
@@ -296,7 +388,7 @@ material change, we will notify you by email or through the Service at
 least **30 days** before the change takes effect. Your continued use
 of the Service after the effective date of the change constitutes
 acceptance of the updated policy. The current version is always
-available at [legal/privacy-policy.md](./privacy-policy.md) and inside
+available at [legal/privacy_policy.md](./privacy_policy.md) and inside
 the app under Settings → Legal.
 
 ---
@@ -304,14 +396,8 @@ the app under Settings → Legal.
 ## 14. Contact
 
 CarLink HQ LLC
-San Francisco, California, USA
-**Privacy:** privacy@carlinkhq.com
-**Legal:** legal@carlinkhq.com
+Woodstock, Georgia, USA
+**Privacy:** support@carlinkhq.com
+**Legal:** support@carlinkhq.com
 **Support:** support@carlinkhq.com
 
----
-
-*This Privacy Policy is a working draft. Before publishing the
-production version, have it reviewed by a licensed privacy attorney in
-your jurisdiction. CarLink HQ is solely responsible for the accuracy
-of the final published version.*

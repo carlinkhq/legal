@@ -2,11 +2,11 @@
 
 The canonical source for CarLink's user-facing legal documents.
 
-  - [Community Guidelines](./community-guidelines.md) — what is and
+  - [Community Guidelines](./community_guidelines.md) — what is and
     isn't acceptable on the platform, plus enforcement.
-  - [Terms of Service](./terms-of-service.md) — the contract between
+  - [Terms of Service](./terms_of_service.md) — the contract between
     each user and CarLink HQ LLC.
-  - [Privacy Policy](./privacy-policy.md) — what data we collect,
+  - [Privacy Policy](./privacy_policy.md) — what data we collect,
     how we use it, and your rights.
 
 All three documents are owned and operated by **CarLink HQ LLC** and
@@ -41,12 +41,12 @@ The table schema, RLS, and seed migration live in the
 
 These documents are working drafts authored by CarLink HQ LLC. Before
 relying on them for production legal protection, have them reviewed by
-a licensed attorney in the relevant jurisdictions (notably California
+a licensed attorney in the relevant jurisdictions (notably Georgia
 for the entity, plus any region you operate in for privacy compliance).
 
 ## Contact
 
   - **General:** support@carlinkhq.com
-  - **Legal:** legal@carlinkhq.com
-  - **Privacy:** privacy@carlinkhq.com
-  - **Copyright / DMCA:** dmca@carlinkhq.com
+  - **Legal:** support@carlinkhq.com
+  - **Privacy:** support@carlinkhq.com
+  - **Copyright / DMCA:** support@carlinkhq.com
