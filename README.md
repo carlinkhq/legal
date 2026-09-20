@@ -50,3 +50,15 @@ for the entity, plus any region you operate in for privacy compliance).
   - **Legal:** support@carlinkhq.com
   - **Privacy:** support@carlinkhq.com
   - **Copyright / DMCA:** support@carlinkhq.com
+
+## Scrap King
+
+The `scrapking/` folder holds the public pages for the Scrap King game
+(also published by CarLink HQ LLC), served by GitHub Pages:
+
+  - https://carlinkhq.github.io/legal/scrapking/privacy.html
+  - https://carlinkhq.github.io/legal/scrapking/terms.html
+  - https://carlinkhq.github.io/legal/scrapking/support.html
+
+They are self-contained HTML files (inline CSS, no build step). Bump the
+effective date inside the file and add a CHANGELOG row when you change one.

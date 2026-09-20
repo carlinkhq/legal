@@ -3,6 +3,12 @@
 Tracks material changes to the Community Guidelines, Terms of Service,
 and Privacy Policy. Most-recent version on top.
 
+## 2026-09-20 — Scrap King v1.0
+
+  - Added `scrapking/` with the Scrap King privacy policy, terms of use
+    (EULA) and support page as self-contained HTML, served by GitHub
+    Pages. Publisher is CarLink HQ LLC; effective September 20, 2026.
+
 ## 2026-07-25 — v1.4 published
 
   - **v1.4 pushed to Supabase `legal_documents`** (privacy policy +
